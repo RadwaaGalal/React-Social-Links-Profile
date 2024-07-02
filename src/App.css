@@ -1,0 +1,21 @@
+@font-face {
+  font-family:Inter ;
+  src: url('./assets/fonts/static/Inter-Regular.ttf');
+  font-weight: Regular;
+}
+
+#Maincontainer{
+  width: 25%;
+  height: 90%;
+  border-radius: 10px;
+  font-family: Inter;
+  background-color: hsl(0, 0%, 8%);
+}
+
+
+@media only screen and (max-width: 375px) {
+  #Maincontainer{
+    width: 90%;
+    height: 68%;
+  }
+}

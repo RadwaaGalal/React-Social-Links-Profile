@@ -1,0 +1,13 @@
+#ImageContaine{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#JessicaImage{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
